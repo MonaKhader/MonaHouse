@@ -19,7 +19,7 @@
 #### As a user, I can see all available houses that able to rent, search to find houses and I can add any liked house to my favorite list , inside my profile I have my information
 
 # Prototype 🎨
-[Figma Link](https://www.figma.com/file/D4zdVZLmxtdZJkfiswjlyv/House-Hunting?type=design&node-id=0-1&mode=design&t=8BeMuyDR1R3iCg3W-0)
+[Figma Link](https://www.figma.com/file/8VtKYY5VwcbLpwGJThc61h/House-Hunting?type=design&node-id=0-1&mode)
 
 # Technologies 💻
 ### Front-end Technology:
@@ -30,7 +30,7 @@
 ### Lead Mentor 😎
 #### Yasmeen Attallah
 ### Team Members 👥
-#### Saja Rabie
+#### Mona Khader
 # Stretch Goals 🥅
 #### user can see the location of the house on the map and compare between two houses
 #### create an admin dashboard
