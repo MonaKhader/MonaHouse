@@ -1,0 +1,28 @@
+
+
+.img{
+  width: 80px;
+  height: 80px;
+}
+
+
+.profileicon {
+  color:#413E4A !important ;
+}
+
+ .responsive {
+  width: 100% !important;
+  height: 100% !important;
+  background-color: #fff !important;
+  color: #413E4A;
+}
+
+.responsiveh{
+  font-size: 20px !important;
+  color:#413E4A !important;
+}
+
+.logout{
+  color: red !important;
+  background-color: white !important;
+}

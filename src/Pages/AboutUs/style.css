@@ -1,0 +1,27 @@
+.Aboutus{
+  background-color: rgb(143, 185, 181,47%);
+  width: 50vw;
+  height: 45vh;
+  display: flex;
+  align-items: center;
+  align-content: center;
+  padding: 0 40px;  
+  border-radius: 20px;
+  box-shadow: 4px 4px 4px rgb(0,0, 0,25%);
+  
+}
+h1{
+  color:#413E4A;
+}
+p{
+  color: #62655E;
+
+}
+.Rent div, .Buy div{
+  margin-bottom: 15px;
+}
+.CardContent{
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+}
